@@ -6,6 +6,7 @@
 
     <groupId>top.jiangyixin</groupId>
     <artifactId>athena</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <description>Athena Java常用的工具集</description>
     <developers>
@@ -14,6 +15,9 @@
             <email>17602173915@163.com</email>
         </developer>
     </developers>
+    <modules>
+        <module>athena-core</module>
+    </modules>
 
 
 </project>
